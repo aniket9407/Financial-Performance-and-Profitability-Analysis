@@ -99,6 +99,4 @@ This dashboard enables stakeholders to:
 ---
 
 ## 🖼️ Dashboard Preview
-
-Screenshot 2026-02-18 102648.png
-
+https://github.com/aniket9407/Financial-Performance-and-Profitability-Analysis/blob/main/Screenshot%202026-02-18%20102648.png
